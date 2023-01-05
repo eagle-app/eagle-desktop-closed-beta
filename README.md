@@ -51,7 +51,7 @@ Eagle 插件系统允许开发者创建自定义插件来扩展 Eagle 的功能�
 以下是申请内测的方式：
 
 1. 加入 Discord 讨论群（注意：需自备科学上网工具）
-[https://discord.com/invite/P8UG9FFA](https://discord.com/invite/P8UG9FFA)
+[https://discord.gg/9EfwEybFUH](https://discord.gg/9EfwEybFUH)
 2. 在群里介绍自己
 3. 从群里获取开发资源和相关文档
 4. 积极提供问题反馈或建议
