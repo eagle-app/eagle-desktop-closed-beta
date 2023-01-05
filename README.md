@@ -6,6 +6,9 @@
 
 如果您对插件开发感兴趣，欢迎加入我们的内测群，一起帮助我们打造更好的 Eagle 应用。您可以在群里获取最新的开发资源和文档，并向我们提供反馈和建议。
 
+## 下载链接
+https://github.com/eagle-app/eagle-desktop-closed-beta/releases/tag/beta
+
 ## 什么是 Eagle 插件系统？
 Eagle 插件系统允许开发者创建自定义插件来扩展 Eagle 的功能。例如，您可以为 Eagle 开发一个它尚未拥有的功能，或者尚未支持预览的文件格式。开发插件的方式非常简单，Eagle 插件使用 JavaScript 和 HTML 进行编写，很容易学习，能让您快速上手！
 
