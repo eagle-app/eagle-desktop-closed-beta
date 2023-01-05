@@ -46,6 +46,9 @@ Eagle 插件系统允许开发者创建自定义插件来扩展 Eagle 的功能�
 
 这些只是一些例子，您还可以开发出更多有趣的工具，为 Eagle 应用增添更多的功能和实用性。
 
+## 代码示例
+https://github.com/eagle-app/eagle-plugin-examples
+
 ## 如何参与内测？
 
 以下是申请内测的方式：
