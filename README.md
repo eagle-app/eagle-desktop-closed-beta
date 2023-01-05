@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/1012267/210714530-43347604-e180-4f71-a6c6-f133718ef1b8.png)
+
 # Eagle 内测版本
 
 大家好，我们是 Eagle 团队，我们很高兴地宣布，Eagle 插件 API 现已开放内测。
